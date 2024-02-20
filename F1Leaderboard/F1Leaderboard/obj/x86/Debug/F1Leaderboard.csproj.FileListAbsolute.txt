@@ -1,0 +1,6 @@
+/home/salvatorec/Projects/F1Leaderboard/F1Leaderboard/bin/Debug/F1Leaderboard.exe
+/home/salvatorec/Projects/F1Leaderboard/F1Leaderboard/bin/Debug/F1Leaderboard.pdb
+/home/salvatorec/Projects/F1Leaderboard/F1Leaderboard/obj/x86/Debug/F1Leaderboard.csproj.AssemblyReference.cache
+/home/salvatorec/Projects/F1Leaderboard/F1Leaderboard/obj/x86/Debug/F1Leaderboard.csproj.CoreCompileInputs.cache
+/home/salvatorec/Projects/F1Leaderboard/F1Leaderboard/obj/x86/Debug/F1Leaderboard.exe
+/home/salvatorec/Projects/F1Leaderboard/F1Leaderboard/obj/x86/Debug/F1Leaderboard.pdb
